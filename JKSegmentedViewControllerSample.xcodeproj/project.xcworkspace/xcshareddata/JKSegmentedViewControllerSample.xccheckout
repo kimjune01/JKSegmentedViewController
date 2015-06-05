@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>30CB93E9-109B-491B-A880-E7B5869E4136</string>
+	<key>IDESourceControlProjectName</key>
+	<string>JKSegmentedViewControllerSample</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>7A277066F95A7E2A02E0A0FDD518ADEBBB801334</key>
+		<string>github.com:kimjune01/JKSegmentedControl.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>JKSegmentedViewControllerSample.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>7A277066F95A7E2A02E0A0FDD518ADEBBB801334</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:kimjune01/JKSegmentedControl.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>7A277066F95A7E2A02E0A0FDD518ADEBBB801334</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>7A277066F95A7E2A02E0A0FDD518ADEBBB801334</string>
+			<key>IDESourceControlWCCName</key>
+			<string>JKSegmentedViewControllerSample</string>
+		</dict>
+	</array>
+</dict>
+</plist>
