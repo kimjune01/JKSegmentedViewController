@@ -3,7 +3,7 @@ JKSegmentedViewController
 
 The quickest way to use segmented control with child view controllers, written in Swift.
 
-![demo](http://i.imgur.com/ZDAq2bZ.gifv)
+[Imgur](http://i.imgur.com/ZDAq2bZ.gifv)
 
 ### Usage
 
